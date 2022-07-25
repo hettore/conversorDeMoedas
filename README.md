@@ -10,7 +10,8 @@ Você somente ira precisar inserir a quantidade de moeda estrangeira que quer co
 recebera os valores necessários para efetuar a compra!
 
 
-![telacorreta](https://user-images.githubusercontent.com/24979432/180676800-89e1436b-b66d-41cd-a306-1c3432af92cf.png)
+![telacorreta](https://user-images.githubusercontent.com/24979432/180762897-865770ae-6ddb-4b20-b06e-11c8680d720f.png)
+
 
 
 
